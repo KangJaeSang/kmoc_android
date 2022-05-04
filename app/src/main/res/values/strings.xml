@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KMOOC</string>
+
+    <string-array name="lecture">
+        <item>강좌번호</item>
+        <item>분류</item>
+        <item>운영기관</item>
+        <item>교수정보</item>
+        <item>운영기간</item>
+        <item>추가 상세정보</item>
+    </string-array>
+</resources>
